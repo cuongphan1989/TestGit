@@ -6,7 +6,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ChangeFromMaster123");
+            Console.WriteLine("ChangeFromMaster123456");
             Console.WriteLine("Hello World!");
             Console.WriteLine("ChangeFromMaster");
             Console.WriteLine("ChangeFromRebase");
