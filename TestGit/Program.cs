@@ -9,7 +9,7 @@ namespace TestGit
             Console.WriteLine("ChangeFromMaster123456");
             Console.WriteLine("Hello World!");
             Console.WriteLine("ChangeFromMaster");
-            Console.WriteLine("ChangeFromRebase");
+            Console.WriteLine("ChangeFromRebase123");
         }
     }
 }
