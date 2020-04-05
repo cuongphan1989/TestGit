@@ -8,6 +8,7 @@ namespace TestGit
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("ChangeFromMaster");
+            Console.WriteLine("ChangeFromRebase");
         }
     }
 }
